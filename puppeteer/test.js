@@ -5,7 +5,7 @@ const puppeteer = require('puppeteer');
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
     try{
-    await page.goto('https://8081-fdfffbbdfbdbbdbcceaeeabecedefaecffdb.upd.ide-new.exam.ly');
+    await page.goto('https://8081-fdfffbbdfbdbbdbcceaeeffbcfbabcedccccfb.upd.ide-new.exam.ly');
     await page.setViewport({
       width:1200,
       height:800,
@@ -32,7 +32,7 @@ const puppeteer = require('puppeteer');
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
     try {
-      await page.goto('https://8081-fdfffbbdfbdbbdbcceaeeabecedefaecffdb.upd.ide-new.exam.ly');
+      await page.goto('https://8081-fdfffbbdfbdbbdbcceaeeffbcfbabcedccccfb.upd.ide-new.exam.ly');
     await page.setViewport({
       width:1200,
       height:800,
@@ -55,7 +55,7 @@ const puppeteer = require('puppeteer');
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
     try {
-      await page.goto('https://8081-fdfffbbdfbdbbdbcceaeeabecedefaecffdb.upd.ide-new.exam.ly');
+      await page.goto('https://8081-fdfffbbdfbdbbdbcceaeeffbcfbabcedccccfb.upd.ide-new.exam.ly');
       await page.setViewport({
         width:1200,
         height:800,
@@ -82,7 +82,7 @@ const puppeteer = require('puppeteer');
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
     try {
-      await page.goto('https://8081-fdfffbbdfbdbbdbcceaeeabecedefaecffdb.upd.ide-new.exam.ly');
+      await page.goto('https://8081-fdfffbbdfbdbbdbcceaeeffbcfbabcedccccfb.upd.ide-new.exam.ly');
       await page.setViewport({
         width:1200,
         height:800,
@@ -111,7 +111,7 @@ const puppeteer = require('puppeteer');
     
     
     try {
-      await page.goto('https://8081-fdfffbbdfbdbbdbcceaeeabecedefaecffdb.upd.ide-new.exam.ly');
+      await page.goto('https://8081-fdfffbbdfbdbbdbcceaeeffbcfbabcedccccfb.upd.ide-new.exam.ly');
       await page.setViewport({
         width:1200,
         height:800,
